@@ -1,0 +1,15 @@
+{
+  "name": "instafollowers",
+  "version": "1.0.0",
+  "description": "Hey guys built this script , one day i was just scrolling found some good looking girl that i followed i was like i have to talk to her finds out she doesn't follow back and thought how can i check",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.2.0"
+  }
+}

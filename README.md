@@ -24,22 +24,33 @@ So i built my own Script
 
 ```bash
 mkdir new-proj
+
 ```
 
-2.  Install Required Packages
-
-```bash
-pip install beautifulsoup4 lxml
-```
-
-3. Clone the project
+2. Clone the project
 
 ```bash
 git https://github.com/divu777/Insta_follow_unfollow.git
 ```
 
+3.  Install Required Packages
+
+```bash
+npm install
+```
+
 4. Replace the .html files with yours
 
-5. Run the code
+5. Run the buid command
+
+```bash
+tsc -b
+```
+
+6. Run the script
+
+```bash
+node dist/index.js
+```
 
 ### ENJOY , it does provide you with links to profile you don't have to manually search them
